@@ -1,0 +1,227 @@
+{ 
+        "data": [
+            {
+                "brand": "Nike",
+                "creative agency": "Wieden+Kennedy",
+                "media agency": "Razorfish and Mindshare",
+                "rank": 0,
+                "title": "Never Too Far Down | You Can't Stop Us | Nike",
+                "href": "https://www.youtube.com/watch?v=R-t8qPldklc",
+                "id": 0,
+                "link_id": 10102,
+                "script_link": "scripts/10102.en.txt"
+            },
+            {
+                "brand": "Google",
+                "creative agency": "Google Creative Lab",
+                "media agency": "Essence",
+                "rank": 1,
+                "title": "Loretta | Google Super Bowl Commercial 2020",
+                "href": "https://www.youtube.com/watch?v=PW6SocCjTMM",
+                "id": 1,
+                "link_id": 1820,
+                "script_link": "scripts/1820.es.txt"
+            },
+            {
+                "brand": "HyundaiUSA",
+                "creative agency": "Innocean",
+                "media agency": "Canvas Worldwide",
+                "rank": 2,
+                "title": "Smaht Pahk | 2020 Hyundai Sonata | Hyundai",
+                "href": "https://www.youtube.com/watch?v=WBvkmWDjsYc",
+                "id": 2,
+                "link_id": 18016
+            },
+            {
+                "brand": "Clash of Clans",
+                "creative agency": "Psyop",
+                "rank": 3,
+                "title": "Lost & Crowned | A Clash Short Film",
+                "href": "https://www.youtube.com/watch?v=N0QqNGbpTK0",
+                "id": 3,
+                "link_id": 3318
+            },
+            {
+                "brand": "TurboTax",
+                "creative agency": "Wieden+Kennedy",
+                "media agency": "Wieden+Kennedy and Camelot Strategic Marketing & Media",
+                "rank": 4,
+                "title": "TurboTax 2020 Super Bowl Commercial \"All People Are Tax People Remix\"",
+                "href": "https://www.youtube.com/watch?v=FyxgXzDb4l0",
+                "id": 4,
+                "link_id": 9828,
+                "script_link": "scripts/9828.en.txt"
+            },
+            {
+                "brand": "Apple",
+                "creative agency": "Apple",
+                "media agency": "OMD",
+                "rank": 5,
+                "title": "The whole working-from-home thing \u2014 Apple",
+                "href": "https://www.youtube.com/watch?v=6_pru8U2RmM",
+                "id": 5,
+                "link_id": 7767,
+                "script_link": "scripts/7767.en.txt"
+            },
+            {
+                "brand": "NFL",
+                "creative agency": "72andSunny",
+                "media agency": "OMD",
+                "rank": 6,
+                "title": "NEXT 100 || NFL Super Bowl LIV Commercial",
+                "href": "https://www.youtube.com/watch?v=lbkafMhmvMo",
+                "id": 6,
+                "link_id": 3613
+            },
+            {
+                "brand": "GEICO Insurance",
+                "creative agency": "The Martin Agency",
+                "rank": 7,
+                "title": "Aunt Infestation - GEICO Insurance",
+                "href": "https://www.youtube.com/watch?v=0uZ7PG3YPuM",
+                "id": 7,
+                "link_id": 14757,
+                "script_link": "scripts/14757.en.txt"
+            },
+            {
+                "brand": "GMC",
+                "creative agency": "Leo Burnett",
+                "media agency": "Carat",
+                "rank": 8,
+                "title": "First Ever GMC HUMMER EV | \u201cHorsepower\u201d",
+                "href": "https://www.youtube.com/watch?v=at4wtDEwBoU",
+                "id": 8,
+                "link_id": 11352
+            },
+            {
+                "brand": "Michelob ULTRA",
+                "creative agency": "FCB",
+                "media agency": "Dentsu",
+                "rank": 9,
+                "title": "Jimmy Works It Out | Michelob ULTRA | Super Bowl LIV",
+                "href": "https://www.youtube.com/watch?v=U7h6Vls-uO8",
+                "id": 9,
+                "link_id": 16273,
+                "script_link": "scripts/16273.en.txt"
+            },
+            {
+                "brand": "Quibi",
+                "creative agency": "BBH LA",
+                "rank": 3,
+                "title": "Quibi | Download Now",
+                "href": "https://www.youtube.com/watch?v=0e2AlB8_uRI",
+                "id": 13,
+                "link_id": 13708
+            },
+            {
+                "brand": "HBO Max",
+                "creative agency": "BBDO NYC",
+                "media agency": "Hearts & Science",
+                "rank": 4,
+                "title": "HBO Max | We\u2019ve Got All Your Favorites",
+                "href": "https://www.youtube.com/watch?v=jFIotN_UQAM",
+                "id": 14,
+                "link_id": 5021
+            },
+            {
+                "brand": "PayPal",
+                "creative agency": "RAPP UK",
+                "media agency": "PayPal",
+                "rank": 6,
+                "title": "Let\u2019s make it better \u2013 PayPal",
+                "href": "https://www.youtube.com/watch?v=o_DN1FHDTWE",
+                "id": 16,
+                "link_id": 12990
+            },
+            {
+                "brand": "PlayStation",
+                "creative agency": "Sony Interactive Entertainment, Global Creative Services",
+                "media agency": "MediaCom",
+                "rank": 7,
+                "title": "PS5 - The Future of Gaming",
+                "href": "https://www.youtube.com/watch?v=RuLci-lSeCo",
+                "id": 17,
+                "link_id": 6828,
+                "script_link": "scripts/6828.en.txt"
+            },
+            {
+                "brand": "Progressive",
+                "creative agency": "Arnold",
+                "media agency": "Progressive Direct",
+                "rank": 8,
+                "title": "Dr. Rick | Group Outing | Progressive Insurance Commercial",
+                "href": "https://www.youtube.com/watch?v=u0yT5XWjldo",
+                "id": 18,
+                "link_id": 16423,
+                "script_link": "scripts/16423.en.txt"
+            },
+            {
+                "brand": "P&G",
+                "media agency": "Carat",
+                "rank": 9,
+                "title": "The Look",
+                "href": "https://www.youtube.com/watch?v=sFrNsSnk8GM",
+                "id": 19,
+                "link_id": 22
+            },
+            {
+                "brand": "Ad Council/#AloneTogether",
+                "creative agency": "Pereira O\u2019Dell, MTV",
+                "rank": 0,
+                "title": "Alone Together, Stay Home | Coronavirus Response | Ad Council",
+                "href": "https://www.infektionsschutz.de/coronavirus-sars-cov-2.html",
+                "id": 20,
+                "link_id": 6619
+            },
+            {
+                "brand": "Bud Light",
+                "creative agency": "Wieden + Kennedy",
+                "media agency": "Dentsu & SocialCode",
+                "rank": 1,
+                "title": "Bud Light - We'll Meet Again :15",
+                "href": "https://www.youtube.com/watch?v=HsM_VmN6ytk",
+                "id": 21,
+                "link_id": 8840
+            },
+            {
+                "brand": "Burger King",
+                "creative agency": "FCB New York",
+                "media agency": "Horizon Media",
+                "rank": 2,
+                "title": "Stay Home of the Whopper Modified EndCard",
+                "href": "https://www.youtube.com/watch?v=IsQ7Wto0FJg",
+                "id": 22,
+                "link_id": 8043
+            },
+            {
+                "brand": "Ikea",
+                "creative agency": "Ogilvy",
+                "media agency": "Wavemaker",
+                "rank": 3,
+                "title": "Firsts",
+                "href": "https://www.youtube.com/watch?v=XvLBd_SFs_A",
+                "id": 23,
+                "link_id": 13387
+            },
+            {
+                "brand": "Lowe's",
+                "creative agency": "VIA Portland",
+                "media agency": "Starcom",
+                "rank": 4,
+                "title": "#BuildThanks :15",
+                "href": "https://www.youtube.com/watch?v=LYqAjCYT3ak",
+                "id": 24,
+                "link_id": 9378
+            },
+            {
+                "brand": "National Football Association",
+                "creative agency": "72 & Sunny",
+                "media agency": "OMD",
+                "rank": 5,
+                "title": "NFL | Stay Home Stay Strong PSA",
+                "href": "https://www.youtube.com/watch?v=1-Bbj10hTbY",
+                "id": 25,
+                "link_id": 12922
+            }
+        ]
+    }

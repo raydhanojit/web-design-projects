@@ -1,0 +1,139 @@
+ <!DOCTYPE html>
+ 
+ <html>
+ <head>
+ <meta charset="utf-8"/>
+ <title> Page Title </title>
+ <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+
+	<div class="nav_bar">
+		<div class="nav_left">
+			<div class="nav_left1 active-nav-link">
+				<a href="index.html">Home</a>
+			</div>
+			<div class="nav_left1">
+				<a href="about.html" >About</a>
+			</div>
+		</div>
+		<div class="nav_right">
+			<div class="nav_right1">
+				<div>DHANOJIT RAY</div>
+			</div> 
+		</div>  
+	</div>
+<div class="content-wraper">
+<div class="portfolio-items-wraper">
+
+
+
+
+	<div class="portfolio-item-wraper">
+		<div class="portfolio-img-background" style="background-image:url(images/portfolio1.jpg)"></div>
+		<div class="img-text-wrapper">
+			<div class="logo-wrapper">
+				<img src="images/logos/bercelona.png" alt="">
+			</div>
+			<div class="subtitle">
+				I am a new to web developer
+			</div>
+		</div>
+	</div>
+
+	<div class="portfolio-item-wraper">
+		<div class="portfolio-img-background" style="background-image:url(images/portfolio2.jpg)"></div>
+		<div class="img-text-wrapper">
+			<div class="logo-wrapper">
+				<img src="images/logos/espn.png" alt="">
+			</div>
+			<div class="subtitle">
+				Be the rainbow of others' cloud
+			</div>
+		</div>
+	</div>
+
+	<div class="portfolio-item-wraper">
+		<div class="portfolio-img-background" style="background-image:url(images/portfolio3.jpg)"></div>
+		<div class="img-text-wrapper">
+			<div class="logo-wrapper">
+				<img src="images/logos/gsw.png" alt="">
+			</div>
+			<div class="subtitle">
+				hello there, I am ironman
+			</div>
+		</div>
+	</div>
+
+	<div class="portfolio-item-wraper">
+		<div class="portfolio-img-background" style="background-image:url(images/portfolio4.jpg)"></div>
+		<div class="img-text-wrapper">
+			<div class="logo-wrapper">
+				<img src="images/logos/bcci.png" alt="">
+			</div>
+			<div class="subtitle">
+				It is the never giving up attitude that drives me
+			</div>
+		</div>
+	</div>
+
+	<div class="portfolio-item-wraper">
+		<div class="portfolio-img-background" style="background-image:url(images/portfolio5.jpg)"></div>
+		<div class="img-text-wrapper">
+			<div class="logo-wrapper">
+				<img src="images/logos/t.png" alt="">
+			</div>
+			<div class="subtitle">
+				Meet your maker
+			</div>
+		</div>
+	</div>
+
+	<div class="portfolio-item-wraper">
+		<div class="portfolio-img-background" style="background-image:url(images/portfolio1.jpg)"></div>
+		<div class="img-text-wrapper">
+			<div class="logo-wrapper">
+				<img src="images/logos/g.png" alt="">
+			</div>
+			<div class="subtitle">
+				I love you 3000
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+</div>
+</div>
+</div>
+ 
+</body>
+
+
+<script type="text/javascript">
+	const portitem=document.querySelectorAll('.portfolio-item-wraper')
+
+portitem.forEach( portfolioitem =>
+{
+	portfolioitem.addEventListener('mouseover', () =>
+	{
+		portfolioitem.childNodes[1].classList.add('img_darken');})} )
+
+
+
+
+portitem.forEach( portfolioitem =>
+{
+	portfolioitem.addEventListener('mouseout', () =>
+	{
+		portfolioitem.childNodes[1].classList.remove('img_darken');})} )
+
+</script>
+
+
+
+</html>
